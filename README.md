@@ -1,2 +1,3 @@
-# exerc-cios_html
+# exercicios_html
 Exercícios de PI - professora Fernanda Caramico
+:zap:
